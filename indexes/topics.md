@@ -3,7 +3,7 @@
 ## Pretraining
 
 - 关键词：data mixture, scaling law, tokenizer, architecture, MoE
-- 论文：[Nested Learning](../papers/pretraining/2025-12-31-nested-learning.md)
+- 论文：[Nested Learning](../paper_notes/pretraining/2025-12-31-nested-learning.md)
 
 ## Alignment
 
@@ -12,8 +12,8 @@
 ## Agent
 
 - 关键词：tool use, agentic training, planning, memory, environment feedback, deep research
-- 论文：[CAST](../papers/agent/2026-07-28-cast.md) · [SDAR](../papers/agent/2026-05-14-sdar.md)
-- 专题：[DeepResearch 论文汇总对比](../papers/agent/deep-research/deep-research-overview.md)
+- 论文：[CAST](../paper_notes/agent/2026-07-28-cast.md) · [SDAR](../paper_notes/agent/2026-05-14-sdar.md)
+- 专题：[DeepResearch 论文汇总对比](../paper_notes/agent/deep-research/deep-research-overview.md)
 
 ## Reasoning
 
